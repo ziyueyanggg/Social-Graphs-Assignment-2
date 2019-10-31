@@ -8,3 +8,6 @@
 1. minor change in functions and re pattern
 2. data preparation for building nx graph
 3. build nx graph
+
+(31 Oct ziyue)
+1. exercise 4 done (except word cloud)
