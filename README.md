@@ -2,5 +2,5 @@
 (31 Oct ziyue)
 1. exercise 1 first two bullets done
 2. exercise 2 work in progress
-I FKING HATE REGULAR EXPRESSION
+3. I FKING HATE REGULAR EXPRESSION
 
