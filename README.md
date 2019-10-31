@@ -15,3 +15,6 @@
 (31 Oct yuesong)
 1. exercise 4 misses the tf-idf part. Trying to implement but failed. spend much time researching. Do tmr.
 2. prof updates new tweets file. I have replaced in our repo. But the new files' name are tw_names...
+
+(1st Nov yuesong)
+second commit. finish exercise 2. wrap up with explanation tmr. I will try to refine plotting.
