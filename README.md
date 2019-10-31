@@ -11,3 +11,7 @@
 
 (31 Oct ziyue)
 1. exercise 4 done (except word cloud)
+
+(31 Oct yuesong)
+1. exercise 4 misses the tf-idf part. Trying to implement but failed. spend much time researching. Do tmr.
+2. prof updates new tweets file. I have replaced in our repo. But the new files' name are tw_names...
