@@ -17,4 +17,10 @@
 2. prof updates new tweets file. I have replaced in our repo. But the new files' name are tw_names...
 
 (1st Nov yuesong)
-second commit. finish exercise 2. wrap up with explanation tmr. I will try to refine plotting.
+1. second commit. finish exercise 2. wrap up with explanation tmr. 
+2. I will try to refine plotting.
+
+(1st Nov Yuesong)
+1. added comments and explanation.
+2. refined plots.
+3. exercise 2 done.
