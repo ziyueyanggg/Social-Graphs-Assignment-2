@@ -24,3 +24,8 @@
 1. added comments and explanation.
 2. refined plots.
 3. exercise 2 done.
+
+(1st Nov yuesong)
+1. exercise 3 done.
+2. i need to find a way to display matrix D a bit better.
+3. i will tdidf later. Will do more research on this. 
