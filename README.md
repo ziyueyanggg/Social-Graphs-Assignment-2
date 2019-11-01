@@ -27,5 +27,9 @@
 
 (1st Nov yuesong)
 1. exercise 3 done.
-2. i need to find a way to display matrix D a bit better.
-3. i will tdidf later. Will do more research on this. 
+### 2. i need to find a way to display matrix D a bit better.
+
+(1st Nov Yuesong)
+1. exercise 5 half-way there/
+2. tried using updated tweets but there are mis match between names. solve issue tmr.
+### 3. i will tdidf later. Will do more research on this. 
