@@ -33,3 +33,13 @@
 1. exercise 5 half-way there/
 2. tried using updated tweets but there are mis match between names. solve issue tmr.
 ### 3. i will tdidf later. Will do more research on this. 
+
+(2nd Nov ziyue)
+1. betweenness centrality weight = None, need to explain further
+2. matplotlib plots look different on my laptop (small issue)
+3. tweets file: where did you find the tweets file with file names as twitter handles? On the course github the latest update of the tweets file was made 2 days ago, and the file names are still Wikipage names
+4. add comments and explanations
+5. refine plots
+6. rectify idf function
+7. +1 in idf (1 is outside of the log function, not at the denom)
+8. 
