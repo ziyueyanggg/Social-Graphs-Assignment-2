@@ -2,7 +2,6 @@
 (31 Oct ziyue)
 1. exercise 1 first two bullets done
 2. exercise 2 work in progress
-3. I FKING HATE REGULAR EXPRESSION
 
 (31 Oct yuesong)
 1. minor change in functions and re pattern
@@ -47,3 +46,6 @@
 (3rd Nov ziyue)
 1. exercise 5 question 1 done
 2. sentiment distribution plot done
+3. tf-idf, word clouds done
+4. exercise 5 done
+### 4. best_partition() is behaving in a bizzare manner, i can't get the last plot. Help me run it on your laptop maybe? 
