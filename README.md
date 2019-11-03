@@ -26,12 +26,12 @@
 
 (1st Nov yuesong afternoon)
 1. exercise 3 done.
-### 2. i need to find a way to display matrix D a bit better.
+2. i need to find a way to display matrix D a bit better.
 
 (1st Nov Yuesong evening)
 1. exercise 5 half-way there/
 2. tried using updated tweets but there are mis match between names. solve issue tmr.
-### 3. i will tdidf later. Will do more research on this. 
+3. i will tdidf later. Will do more research on this. 
 
 (2nd Nov ziyue)
 1. betweenness centrality weight = None, need to explain further
@@ -49,3 +49,9 @@
 3. tf-idf, word clouds done
 4. exercise 5 done
 ### 4. best_partition() is behaving in a bizzare manner, i can't get the last plot. Help me run it on your laptop maybe? 
+
+(3rd Nov yuesong)
+1. cleaning on new df
+2. minor bug fixing including partition function
+3. change color for community plot
+4. explanation refinement
