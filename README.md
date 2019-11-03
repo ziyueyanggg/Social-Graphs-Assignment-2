@@ -43,3 +43,6 @@
 6. rectify idf function
 7. +1 in idf (1 is outside of the log function, not at the denom)
 8. word cloud done, exercise 4 done
+
+(3rd Nov ziyue)
+1. exercise 5 question 1 done
