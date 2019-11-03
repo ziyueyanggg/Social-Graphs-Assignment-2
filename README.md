@@ -46,3 +46,4 @@
 
 (3rd Nov ziyue)
 1. exercise 5 question 1 done
+2. sentiment distribution plot done
