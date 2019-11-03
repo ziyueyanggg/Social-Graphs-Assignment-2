@@ -55,3 +55,4 @@
 2. minor bug fixing including partition function
 3. change color for community plot
 4. explanation refinement
+5. add explanation for Ex2 last qn.. missed it last time
